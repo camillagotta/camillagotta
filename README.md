@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @camillagotta
 - 👀 I’m interested in Data science and cybersecurity world.
+- 🌱 I’m currently work as Security consultant Intern at Accenture (Italy) 
 - 🌱 I’m currently attend a MSc Data Science and Economics, Università degli studi di Milano (Italy)
 - 📫 How to reach me: camigotta@gmail.com
 
